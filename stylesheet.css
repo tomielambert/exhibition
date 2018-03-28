@@ -1,8 +1,9 @@
-p{
-	 font-family: "Palatino Linotype", Palatino, serif;
+p.serif {
+    font-family: "Times New Roman", Times, serif;
 }
 body {
 	background-image: url(images/paint.jpg);
+
 }
 div.container {
     width: 100%;
